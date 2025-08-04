@@ -6,10 +6,10 @@ The goal was to learn and understan UV, python project structure and how to impo
 
 The plan is to keep adding functions as I learn them.
 
-1- intToRoman(num)
-2- romanToInt(s)
-3- lengthOfLongestSubstring(s)
-4- transpose(matrix)
-5- reflect(matrix)
-6- maxArea(heights)
-7- pallindrome(inp)
+- intToRoman(num)
+- romanToInt(s)
+- lengthOfLongestSubstring(s)
+- transpose(matrix)
+- reflect(matrix)
+- maxArea(heights)
+- pallindrome(inp)
